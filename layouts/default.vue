@@ -10,10 +10,10 @@
 <script>
   import TheHeader from '@/components/Navigation/TheHeader'
   import TheSidenav from '@/components/Navigation/TheSidenav'
-  // import Footer from '~/components/Footer_comp.vue'
+  import Footer from '~/components/footer_comp.vue'
   export default {
     components: {
-      // Footer,
+      Footer,
       TheHeader,
       TheSidenav
     },

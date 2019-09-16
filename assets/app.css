@@ -9,3 +9,38 @@ body {
     box-sizing: border-box;
     margin-top: 10px;
   }
+
+
+.is-vertical-center {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.button.is-info {
+  background-color: #00C2EA !important;
+  border-color: transparent;
+  color: #fff;
+}
+
+.has-text-dark-alexa {
+  color: #6C6F6E !important;
+}
+
+img.fullwidth{
+  width: 100%;
+}
+
+.mb-5{
+  margin-bottom: 7px;
+}
+
+@media(max-width: 767px) { /* <== You can change this break point as per your  needs */
+  .custom-columns {
+    flex-direction: column-reverse;
+    display: flex;
+  }
+}
+
+.is-overflowed{
+  overflow: auto;
+}

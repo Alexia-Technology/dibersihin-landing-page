@@ -1,5 +1,6 @@
 <template>
   <div class="header-container">
+
     <header class="the-header" :class="{ 'the-header--hidden': !showNavbar }" id="nav">
       <TheSideNavToggle @toggle="$emit('sidenavToggle')" />
       <div class="logo ">
@@ -13,37 +14,17 @@
             <nuxt-link to="/" exact>Home</nuxt-link>
           </li>
           <li class="nav-item">
-            <nuxt-link to="/rooftop-solar">
-              Rooftop Solar
+            <nuxt-link to="/our-work">
+              Our Work
             </nuxt-link>
           </li>
-           <li class="nav-item">
-            <nuxt-link to="/about-us" exact>About Us</nuxt-link>
-          </li>
           <li class="nav-item">
-            <nuxt-link to="/xurya-lease">
-              Xurya Lease
-            </nuxt-link>
-             <!-- <a target="blank" href="https://getsolar.xurya.com/">
-              Xurya Lease
-            </a> -->
-          </li>
-          <li class="nav-item">
-            <!-- <nuxt-link to="/calculator">
-              Xurya Calculator
-            </nuxt-link > -->
-            <a target="blank" href="https://calculator.xurya.com/">
-              Xurya Calculator
-            </a>
-          </li>
-          <li class="nav-item">
-            <nuxt-link to="/contact">
-              Contact
-            </nuxt-link>
+            <nuxt-link to="/contact-us" exact>Contact Us</nuxt-link>
           </li>
         </ul>
       </div>
     </header>
+
   </div>
 </template>
 
@@ -177,13 +158,15 @@
 
   .nav-item a {
     text-decoration: none;
-    color: black;
+    color: #6C6F6E;
+    font-size: 22px;
+    font-weight: bolder;
   }
 
   .nav-item a:hover,
   .nav-item a:active,
   .nav-item a.nuxt-link-active {
-    color: #FFAB06;
+    color: #01bfe6;
   }
 
   .is-vertical-center {

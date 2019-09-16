@@ -13,37 +13,19 @@
             </li>
           </nuxt-link>
 
-          <li class="nav-item">
-            <nuxt-link to="/rooftop-solar">
-              Rooftop Solar
+        
+            <nuxt-link to="/our-work" class="has-text-dark">
+              <li class="nav-item">
+              Our Work
+               </li>
             </nuxt-link>
-          </li>
-          <nuxt-link to="/About-us" class="has-text-dark">
+         
+          <nuxt-link to="/contact-us" class="has-text-dark">
             <li class="nav-item">
-              About Us
+              Contact Us
             </li>
           </nuxt-link>
-          <nuxt-link to="/xurya-lease" class="has-text-dark">
-            <li class="nav-item">
-              <!-- <a target="blank" href="https://getsolar.xurya.com/">
-              Xurya Lease
-            </a> -->
-              Xurya Lease
-            </li>
-          </nuxt-link>
-        <a class="has-text-dark" target="blank" href="https://calculator.xurya.com/">
-            <li class="nav-item">
-              <!-- <a target="blank" href="https://calculator.xurya.com/">
-              Xurya Calculator
-            </a> -->
-              Xurya Calculator
-            </li>
-         </a>
-          <nuxt-link to="/contact" class="has-text-dark">
-            <li class="nav-item">
-              Contact
-            </li>
-          </nuxt-link>
+
         </ul>
       </div>
     </transition>
@@ -120,7 +102,7 @@
 
   .nav-item a:hover,
   .nav-item a:active {
-    color: #FFAB06;
+    color: #01bfe6;
   }
 
 </style>
