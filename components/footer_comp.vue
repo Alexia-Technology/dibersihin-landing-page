@@ -5,9 +5,9 @@
         <div class="columns">
           <div class="column">
             <h2 class="title is-size-3-desktop is-size-4-tablet is-size-5-mobile  has-text-white">
-              alexatech </h2>
+              alexiatech </h2>
             <h2 class="subtitle is-size-4-desktop is-size-5-tablet is-size-6-mobile  has-text-white">
-              PT. Alexa Indo Tech </h2>
+              PT. alexia Indo Tech </h2>
           </div>
 
           <div class="column">
@@ -21,7 +21,7 @@
           </div>
         </div>
         <hr>
-<p class="has-text-white">Copyright &copy; 2019 alexatech. All rights reserved</p>
+<p class="has-text-white">Copyright &copy; 2019 alexiatech. All rights reserved</p>
       </div>
     </div>
 

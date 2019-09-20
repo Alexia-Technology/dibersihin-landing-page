@@ -9,21 +9,6 @@
           <img class="icon-offering" :src="`/${image}`" alt="Placeholder image">
         </figure>
       </div>
-      <div class="card-content">
-
-
-        <table>
-          <tr>
-            <td> <img class="check-icon" src="check.png" alt=""></td>
-            <td style="margin-top:2px">some feature</td>
-          </tr>
-          <tr>
-            <td> <img class="check-icon" src="check.png" alt=""></td>
-            <td style="margin-top:2px">some feature</td>
-          </tr>
-        </table>
-
-      </div>
       <div class="container">
         <footer class="card-footer">
           <a class="button is-small is-info is-size-6-desktop is-fullwidth is-size-6-tablet is-size-7-mobile">Pilih</a>
@@ -78,5 +63,11 @@
     object-fit: contain;
     width: 100%;
   }
+
+  .button.is-fullwidth {
+    display: flex;
+    width: 100%;
+    border-radius: 12px;
+}
 
 </style>
