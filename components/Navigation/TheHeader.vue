@@ -1,4 +1,5 @@
 <template>
+
   <div class="header-container">
 
     <header class="the-header" :class="{ 'the-header--hidden': !showNavbar }" id="nav">
@@ -19,13 +20,14 @@
             </nuxt-link>
           </li>
           <li class="nav-item">
-            <nuxt-link to="/contact-us" exact>Contact Us</nuxt-link>
+            <nuxt-link to="/contact-us">Contact Us</nuxt-link>
           </li>
         </ul>
       </div>
     </header>
 
   </div>
+
 </template>
 
 <script>
@@ -116,7 +118,7 @@
     /* background: -webkit-linear-gradient(top, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0.8) 65%, rgba(255, 255, 255, 0.5) 88%, rgba(255, 255, 255, 0.3) 100%); */
     z-index: 100;
     box-sizing: border-box;
-    padding: 0 20px;
+    padding: 0px 5%;
     transform: translate3d(0, 0, 0);
     transition: 0.1s all ease-out;
     transition: all 0.5s;
