@@ -41,7 +41,7 @@
 
             <offering offering="Custom App" image="app.png"/>
 
-            <offering offering="SEO" image="warranty.png"/>
+            <offering offering="SEO" image="seo.png"/>
 
           </div>
 
