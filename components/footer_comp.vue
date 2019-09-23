@@ -5,7 +5,7 @@
         <div class="columns">
           <div class="column">
             <h2 class="title is-size-3-desktop is-size-4-tablet is-size-5-mobile  has-text-white">
-              alexiatech </h2>
+              alexia technology </h2>
             <h2 class="subtitle is-size-4-desktop is-size-5-tablet is-size-6-mobile  has-text-white">
               PT. alexia Indo Tech </h2>
           </div>
