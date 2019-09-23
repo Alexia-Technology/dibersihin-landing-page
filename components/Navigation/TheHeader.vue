@@ -5,7 +5,7 @@
     <header class="the-header" :class="{ 'the-header--hidden': !showNavbar }" id="nav">
       <TheSideNavToggle @toggle="$emit('sidenavToggle')" />
       <div class="logo ">
-        <nuxt-link to="/"><img class="is-vertical-center" src="alexatech.png" alt="Alexia Logo">
+        <nuxt-link to="/"><img class="is-vertical-center" src="alexia_logo.png" alt="Alexia Logo">
         </nuxt-link>
       </div>
       <div class="spacer"></div>

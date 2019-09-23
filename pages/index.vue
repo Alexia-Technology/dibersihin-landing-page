@@ -15,7 +15,7 @@
               </div>
             </div>
             <div class="column is-6">
-              <img class="fullwidth" src="ilustrasi.png" alt="">
+              <img class="fullwidth" src="illustration_alexia.png" alt="">
             </div>
           </div>
         </div>
