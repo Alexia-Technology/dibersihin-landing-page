@@ -40,15 +40,10 @@
           <div class="columns ">
 
             <offering offering="Portfolio Web" image="warranty.png" />
-
             <offering offering="Ecommerce" image="online-store.png" />
-
             <offering offering="Company Profile" image="store.png" />
-
             <offering offering="P.O.S System" image="pos.png" />
-
             <offering offering="Custom App" image="app.png" />
-
             <offering offering="SEO" image="seo.png" />
 
           </div>
@@ -73,10 +68,10 @@
           <div class="columns">
             <div class="column is-8 is-offset-2">
               <div class="columns">
-                <tim foto="tim/kerul.jpg" nama="Chaerul S." role="Back-end Developer"></tim>
-                <tim foto="tim/gigih.jpg" nama="Recito Gigih P." role="Front-end Developer"></tim>
-                <tim foto="tim/eki.jpg" nama="Ecky A." role="UI / UX Designer"></tim>
-                <tim foto="tim/tiara.jpg" nama="Tiara S W." role="Digital Marketing"></tim>
+                <tim foto="tim/kerul.jpg" nama="Chaerul S." role="Back-end Developer"/>
+                <tim foto="tim/gigih.jpg" nama="Recito Gigih P." role="Front-end Developer"/>
+                <tim foto="tim/eki.jpg" nama="Ecky A." role="UI / UX Designer"/>
+                <tim foto="tim/tiara.jpg" nama="Tiara S W." role="Digital Marketing"/>
               </div>
             </div>
           </div>

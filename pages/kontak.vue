@@ -10,48 +10,55 @@
         </p>
         <div class="columns">
           <div class="column is-8 is-offset-2">
-            <div class="">
-              <div class="field is-fullwidth">
-                <label class="label">Nama</label>
-                <div class="control has-icons-left">
-                  <input class="input is-primary" type="text" placeholder="Nama">
-                  <span class="icon is-small is-left">
-                    <i class="fa fa-user" aria-hidden="true"></i>
-                  </span>
-                </div>
+            <formInput label="Nama" type="text" placeholder="Nama" icon="fa fa-user" />
+            <formInput label="Email" type="email" placeholder="Email" icon="fa fa-envelope" />
+            <formInput label="No Telp" type="number" placeholder="No Telp" icon="fa fa-phone" />
+
+            <div class="field">
+              <label class="label">Pesan</label>
+              <div class="control">
+                <textarea class="textarea is-primary" rows="5" placeholder="Pesan anda"></textarea>
               </div>
-              <div class="field is-fullwidth">
-                <label class="label">Email</label>
-                <div class="control has-icons-left">
-                  <input class="input is-primary" type="email" placeholder="Email">
-                  <span class="icon is-small is-left">
-                    <i class="fa fa-envelope" aria-hidden="true"></i>
-                  </span>
-                </div>
-              </div>
-              <div class="field is-fullwidth">
-                <label class="label">No telp</label>
-                <div class="control has-icons-left">
-                  <input class="input is-primary" type="number" placeholder="No Telp">
-                  <span class="icon is-small is-left">
-                    <i class="fa fa-phone" aria-hidden="true"></i>
-                  </span>
-                </div>
-              </div>
-              <div class="field">
-                <label class="label">Pesan</label>
-                <div class="control">
-                  <textarea class="textarea is-primary" rows="5" placeholder="Pesan anda"></textarea>
-                </div>
-              </div>
-              <p class="help is-primary">Kami akan menghubungi anda setelah anda mengirim formulir berikut</p>
-               <center>
-            <nuxt-link to="/kontak" class="button is-info is-size-5-desktop is-size-6-tablet is-size-7-mobile">Kirim</nuxt-link>
-          </center>
             </div>
+
+            <p class="help is-primary">Kami akan menghubungi anda setelah anda mengirim formulir berikut</p>
+            <center>
+              <nuxt-link to="/kontak" class="button is-info is-size-5-desktop is-size-6-tablet is-size-7-mobile">Kirim
+              </nuxt-link>
+            </center>
+
           </div>
         </div>
       </div>
     </div>
   </section>
 </template>
+
+<script>
+  import formInput from '@/components/form-input'
+  export default {
+    components: {
+      formInput
+    },
+
+    data() {
+      return {
+        title: 'kontak'
+      }
+    },
+    head() {
+      return {
+        title: this.title,
+        meta: [
+          // hid is used as unique identifier. Do not use `vmid` for it as it will not work
+          {
+            hid: 'description',
+            name: 'description',
+            content: 'Kami ada untuk membantu memenuhi kebutuhan digital anda'
+          }
+        ]
+      }
+    },
+  }
+
+</script>
