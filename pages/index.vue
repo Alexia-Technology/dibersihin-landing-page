@@ -73,81 +73,10 @@
           <div class="columns">
             <div class="column is-8 is-offset-2">
               <div class="columns">
-                <div class="column is-3">
-                  <div class="card">
-                    <div class="card-image">
-                      <figure class="image ">
-                        <img class="br-50"
-                          src="tim/kerul.jpg"
-                          alt="Placeholder image">
-                      </figure>
-                    </div>
-                    <div class="card-content">
-                      <b
-                        class="has-text-dark is-size-4-desktop is-size-5-tablet is-size-6-mobile has-text-centered p-5">
-                        Chaerul S.
-                      </b>
-                      <p>Back-end Developer</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="column is-3">
-                  <div class="card">
-                    <div class="card-image">
-                      <figure class="image">
-                        <img class="br-50"
-                          src="tim/gigih.jpg"
-                          alt="Placeholder image">
-                      </figure>
-                    </div>
-                    <div class="card-content">
-                      <b
-                        class="has-text-dark is-size-4-desktop is-size-5-tablet is-size-6-mobile has-text-centered p-5">
-                        Recito Gigih P.
-                      </b>
-                      <p>Front-end Developer</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="column is-3">
-                  <div class="card">
-                    <div class="card-image">
-                      <figure class="image">
-                        <img class="br-50"
-                          src="tim/eki.jpg"
-                          alt="Placeholder image">
-                      </figure>
-                    </div>
-                    <div class="card-content">
-                      <b
-                        class="has-text-dark is-size-4-desktop is-size-5-tablet is-size-6-mobile has-text-centered p-5">
-                        Ecky A.
-                      </b>
-                      <p>UI / UX Designer</p>
-                    </div>
-                  </div>
-                </div>
-
-                 <div class="column is-3">
-                  <div class="card">
-                    <div class="card-image">
-                      <figure class="image ">
-                        <img class="br-50"
-                          src="tim/tiara.jpg"
-                          alt="Placeholder image">
-                      </figure>
-                    </div>
-                    <div class="card-content">
-                      <b
-                        class="has-text-dark is-size-4-desktop is-size-5-tablet is-size-6-mobile has-text-centered p-5">
-                        Tiara S W.
-                      </b>
-                      <p>Digital Marketing</p>
-                    </div>
-                  </div>
-                </div>
+                <tim foto="tim/kerul.jpg" nama="Chaerul S." role="Back-end Developer"></tim>
+                <tim foto="tim/gigih.jpg" nama="Recito Gigih P." role="Front-end Developer"></tim>
+                <tim foto="tim/eki.jpg" nama="Ecky A." role="UI / UX Designer"></tim>
+                <tim foto="tim/tiara.jpg" nama="Tiara S W." role="Digital Marketing"></tim>
               </div>
             </div>
           </div>
@@ -164,7 +93,8 @@
             class="subtitle is-size-4-desktop is-size-5-tablet is-size-6-mobile has-text-centered has-text-dark-alexa">
             Kami ada setiap saat kapanpun dimanapun </h2>
           <center>
-            <nuxt-link to="/kontak" class="button is-info is-size-5-desktop is-size-6-tablet is-size-7-mobile">Hubungi Sekarang</nuxt-link>
+            <nuxt-link to="/kontak" class="button is-info is-size-5-desktop is-size-6-tablet is-size-7-mobile">Hubungi
+              Sekarang</nuxt-link>
           </center>
         </div>
       </div>
@@ -177,11 +107,13 @@
 </template>
 
 <script>
-  import offering from '@/components/offering-item'
+  import offering from '@/components/card/offering-item'
+  import tim from '@/components/card/tim-card'
   export default {
 
     components: {
-      offering
+      offering,
+      tim
     },
     data() {
       return {
@@ -303,13 +235,13 @@
     display: block;
     position: relative;
     padding: 10% 25%;
-}
+  }
 
-.image img {
+  .image img {
     display: block;
     height: auto;
     width: 100%;
     height: 102px;
-}
+  }
 
 </style>

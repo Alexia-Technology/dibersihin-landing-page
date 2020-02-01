@@ -9,9 +9,9 @@
         </figure>
       </div>
       <div class="container">
-        <footer class="card-footer">
+        <!-- <footer class="card-footer">
           <a class="button is-small is-info is-size-6-desktop is-fullwidth is-size-6-tablet is-size-7-mobile">Pilih</a>
-        </footer>
+        </footer> -->
       </div>
     </div>
   </div>
@@ -25,9 +25,9 @@
 </script>
 
 <style scoped>
-.p-5{
+  .p-5 {
     padding: 20px 3px 0px 3px;
-}
+  }
 
   .card {
     background-color: white;
@@ -37,9 +37,9 @@
     position: relative;
     border-radius: 12px;
 
-    -webkit-box-shadow: 14px 11px 37px -15px rgba(0,0,0,0.66);
--moz-box-shadow: 14px 11px 37px -15px rgba(0,0,0,0.66);
-box-shadow: 14px 11px 37px -15px rgba(0,0,0,0.66);
+    -webkit-box-shadow: 14px 11px 37px -15px rgba(0, 0, 0, 0.66);
+    -moz-box-shadow: 14px 11px 37px -15px rgba(0, 0, 0, 0.66);
+    box-shadow: 14px 11px 37px -15px rgba(0, 0, 0, 0.66);
   }
 
   .card-image {
@@ -71,6 +71,6 @@ box-shadow: 14px 11px 37px -15px rgba(0,0,0,0.66);
     display: flex;
     width: 100%;
     border-radius: 12px;
-}
+  }
 
 </style>
