@@ -10,6 +10,10 @@ body {
     margin-top: 10px;
   }
 
+.is-fullwidth {
+  width: 100%;
+}
+
 
 .is-vertical-center {
   display: flex !important;
@@ -24,6 +28,10 @@ body {
 
 .has-text-dark-alexa {
   color: #6C6F6E !important;
+}
+
+.has-text-biru-alexa {
+  color: #00C2EA !important;
 }
 
 img.fullwidth{
@@ -43,4 +51,8 @@ img.fullwidth{
 
 .is-overflowed{
   overflow: auto;
+}
+
+.br-50{
+  border-radius: 50%;
 }

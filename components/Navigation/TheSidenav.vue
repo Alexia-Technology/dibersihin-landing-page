@@ -9,20 +9,20 @@
         <ul class="nav-list" @click="$emit('close')">
           <nuxt-link to="/" class="has-text-dark">
             <li class="nav-item">
-              Home
+              Beranda
             </li>
           </nuxt-link>
 
         
-            <nuxt-link to="/our-work" class="has-text-dark">
+            <nuxt-link to="/portofolio" class="has-text-dark">
               <li class="nav-item">
-              Our Work
+              Portofolio
                </li>
             </nuxt-link>
          
-          <nuxt-link to="/contact-us" class="has-text-dark">
+          <nuxt-link to="/kontak" class="has-text-dark">
             <li class="nav-item">
-              Contact Us
+              Kontak
             </li>
           </nuxt-link>
 

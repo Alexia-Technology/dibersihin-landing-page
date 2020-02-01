@@ -13,21 +13,22 @@
           <div class="column">
             <nuxt-link to="#">
               <h2 class="subtitle mb-5 is-size-4-desktop is-size-5-tablet is-size-6-mobile  has-text-white">
-                Home </h2>
+                Beranda </h2>
             </nuxt-link>
 
             <nuxt-link to="#">
               <h2 class="subtitle mb-5 is-size-4-desktop is-size-5-tablet is-size-6-mobile  has-text-white">
-                Our Work </h2>
+                Portofolio </h2>
             </nuxt-link>
             <nuxt-link to="#">
               <h2 class="subtitle mb-5 is-size-4-desktop is-size-5-tablet is-size-6-mobile  has-text-white">
-                Contact Us </h2>
+                Kontak </h2>
             </nuxt-link>
           </div>
         </div>
         <hr>
-        <p class="has-text-white">Copyright &copy; 2019 alexiatech. All rights reserved</p>
+         <p class="has-text-white">Hak cipta &copy; 2020 alexiatech</p>
+        <!-- <p class="has-text-white">Copyright &copy; 2019 alexiatech. All rights reserved</p> -->
       </div>
     </div>
 

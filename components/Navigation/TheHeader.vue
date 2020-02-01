@@ -11,18 +11,30 @@
       <div class="spacer"></div>
       <div class="navigation-items">
         <ul class="nav-list">
-          <li class="nav-item">
-            <nuxt-link to="/" exact>Home</nuxt-link>
-          </li>
-          <li class="nav-item">
-            <nuxt-link to="/our-work">
-              Our Work
-            </nuxt-link>
-          </li>
-          <li class="nav-item">
-            <nuxt-link to="/contact-us">Contact Us</nuxt-link>
-          </li>
-        </ul>
+            <li class="nav-item">
+              <nuxt-link to="/" exact>Beranda</nuxt-link>
+            </li>
+            <!-- <li class="nav-item">
+              <nuxt-link to="/portfolio">
+                Portfolio
+              </nuxt-link>
+            </li>
+            <li class="nav-item">
+              <nuxt-link to="/about">
+                About
+              </nuxt-link>
+            </li> -->
+            <li class="nav-item">
+              <nuxt-link to="/kontak">
+                Kontak
+              </nuxt-link>
+            </li>
+            <!-- <li class="nav-item">
+              <nuxt-link to="/articles">
+                Blog
+              </nuxt-link>
+            </li> -->
+          </ul>
       </div>
     </header>
 
