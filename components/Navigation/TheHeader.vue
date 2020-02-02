@@ -12,7 +12,7 @@
       <div class="navigation-items">
         <ul class="nav-list">
             <li class="nav-item">
-              <nuxt-link to="/" exact>Beranda</nuxt-link>
+              <nuxt-link to="/" exact>Home</nuxt-link>
             </li>
             <!-- <li class="nav-item">
               <nuxt-link to="/portfolio">
@@ -26,7 +26,7 @@
             </li> -->
             <li class="nav-item">
               <nuxt-link to="/kontak">
-                Kontak
+                Contact
               </nuxt-link>
             </li>
             <!-- <li class="nav-item">

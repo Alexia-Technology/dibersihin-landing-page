@@ -9,7 +9,7 @@
         <ul class="nav-list" @click="$emit('close')">
           <nuxt-link to="/" class="has-text-dark">
             <li class="nav-item">
-              Beranda
+              Home
             </li>
           </nuxt-link>
 
@@ -22,7 +22,7 @@
          
           <nuxt-link to="/kontak" class="has-text-dark">
             <li class="nav-item">
-              Kontak
+              Contact
             </li>
           </nuxt-link>
 

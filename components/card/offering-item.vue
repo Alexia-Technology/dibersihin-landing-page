@@ -1,17 +1,19 @@
 <template>
-  <div class="column">
+  <div class="column is-3">
     <div class="card">
-      <p class="has-text-dark is-size-5-desktop is-size-6-tablet is-size-6-mobile has-text-centered p-5">{{offering}}
-      </p>
+     
       <div class="card-image">
         <figure class="image">
           <img class="icon-offering" :src="`/${image}`" alt="Placeholder image">
         </figure>
       </div>
+       <p class="has-text-dark is-size-5-desktop is-size-6-tablet is-size-6-mobile has-text-centered p-5"><b>{{offering}}</b>
+      </p>
       <div class="container">
-        <!-- <footer class="card-footer">
-          <a class="button is-small is-info is-size-6-desktop is-fullwidth is-size-6-tablet is-size-7-mobile">Pilih</a>
-        </footer> -->
+        <footer class="card-footer">
+          <p class="has-text-justified">{{desc}}</p>
+          <!-- <a class="button is-small is-info is-size-6-desktop is-fullwidth is-size-6-tablet is-size-7-mobile">Pilih</a> -->
+        </footer>
       </div>
     </div>
   </div>
@@ -19,7 +21,7 @@
 
 <script>
   export default {
-    props: ["offering", "image"]
+    props: ["offering", "image", "desc"]
   };
 
 </script>

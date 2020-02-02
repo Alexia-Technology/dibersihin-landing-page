@@ -13,16 +13,16 @@
           <div class="column">
             <nuxt-link to="#">
               <h2 class="subtitle mb-5 is-size-4-desktop is-size-5-tablet is-size-6-mobile  has-text-white">
-                Beranda </h2>
+                Home </h2>
             </nuxt-link>
 
-            <nuxt-link to="#">
+            <!-- <nuxt-link to="#">
               <h2 class="subtitle mb-5 is-size-4-desktop is-size-5-tablet is-size-6-mobile  has-text-white">
                 Portofolio </h2>
-            </nuxt-link>
+            </nuxt-link> -->
             <nuxt-link to="#">
               <h2 class="subtitle mb-5 is-size-4-desktop is-size-5-tablet is-size-6-mobile  has-text-white">
-                Kontak </h2>
+                Contact </h2>
             </nuxt-link>
           </div>
         </div>
