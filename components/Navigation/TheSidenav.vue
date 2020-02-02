@@ -14,11 +14,11 @@
           </nuxt-link>
 
         
-            <nuxt-link to="/portofolio" class="has-text-dark">
+            <!-- <nuxt-link to="/portofolio" class="has-text-dark">
               <li class="nav-item">
               Portofolio
                </li>
-            </nuxt-link>
+            </nuxt-link> -->
          
           <nuxt-link to="/kontak" class="has-text-dark">
             <li class="nav-item">
