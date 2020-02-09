@@ -3,7 +3,7 @@
     <banner/>
     <quotes/>
     <offering/>
-    <!-- <ourWork/> -->
+    <ourWork/>
     <team/>
     <contact/>
   </div>

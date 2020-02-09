@@ -7,8 +7,8 @@
         <h2 class="subtitle is-size-4-desktop is-size-5-tablet is-size-6-mobile has-text-centered has-text-dark-alexa">
           The ones who will be delivering you a better experience in <br> developing your apps </h2><br>
         <div class="columns">
-          <div class="column is-10 is-offset-1">
-            <div class="columns">
+          <div class="column is-8 is-offset-2">
+            <div class="columns is-multiline is-centered">
               <timItem v-for="team in teams" :key="team.id" :foto="team.photo" :nama="team.nama" :role="team.role" />
             </div>
           </div>
@@ -24,13 +24,15 @@
     data() {
       return {
         title: 'alexia technology',
-        teams: [{
-            id: 1,
-            nama: "Chaerul S.",
-            photo: "tim/kerul.jpg",
-            role: "Back-end Developer"
-          },
+        teams: [
+         
           {
+            id: 1,
+            nama: "Ecky Alimansyah",
+            photo: "tim/eki.jpg",
+            role: "UI / UX Designer"
+          },
+           {
             id: 2,
             nama: "Recito Gigih P.",
             photo: "tim/gigih.jpg",
@@ -38,16 +40,23 @@
           },
           {
             id: 3,
-            nama: "Ecky A.",
-            photo: "tim/eki.jpg",
-            role: "UI / UX Designer"
+            nama: "Tiara S W.",
+            photo: "tim/tiara.png",
+            role: "Digital Marketing"
           },
           {
             id: 4,
-            nama: "Tiara S W.",
-            photo: "tim/tiara.jpg",
-            role: "Digital Marketing"
+            nama: "Adrian",
+            photo: "tim/adrian.png",
+            role: "Front-end Developer"
+          },{
+            id: 5,
+            nama: "Choerul S.",
+            photo: "tim/kerul.png",
+            role: "Back-end Developer"
           },
+    
+          
         ]
       }
     },

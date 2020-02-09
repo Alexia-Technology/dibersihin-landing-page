@@ -13,7 +13,6 @@
                 class="has-text-biru-alexa"><b>IMPROVE</b></span></h1>
             <p class="subtitle is-size-4-desktop is-size-5-tablet is-size-6-mobile has-text-dark-alexa">We trully
               understand what you definitely need in business experience</p>
-
           </div>
         </div>
       </div>
@@ -31,7 +30,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; */
-    min-height: 100vh;
+    min-height: 30vh;
   }
  
  .ls-8{

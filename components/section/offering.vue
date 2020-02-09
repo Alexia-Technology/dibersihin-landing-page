@@ -2,10 +2,10 @@
   <section class="offering is-link is-fullheight is-vertical-center" id="offering">
     <div class="container">
       <div class="hero-body">
-        <h2 class="title is-size-3-desktop is-size-4-tablet is-size-5-mobile has-text-dark-alexa">
+        <h2 class="title has-text-centered is-size-3-desktop is-size-4-tablet is-size-5-mobile has-text-dark-alexa">
           We've been specialized in ...</h2>
         <br>
-        <div class="columns is-multiline">
+        <div class="columns is-multiline is-centered">
           <offeringItem v-for="offering in offerings" :key="offering.id" :offering="offering.nama"
             :image="offering.image" :desc="offering.desc" />
         </div>

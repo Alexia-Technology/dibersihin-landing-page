@@ -17,7 +17,6 @@ export default {
       }
     ]
 
-
   },
   /*
   ** Customize the progress-bar color

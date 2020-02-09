@@ -35,6 +35,18 @@ body {
   color: #fff;
 }
 
+.button.is-merah-dfi.is-outlined {
+  background-color: transparent !important;
+  border-color: #C31F54;
+  color: #C31F54;
+}
+
+.button.is-merah-dfi.is-outlined:hover {
+  background-color: transparent;
+  border-color: #C31F54;
+  color: #fff;
+}
+
 .button.is-merah-dfi:hover {
   background-color: #C31F54 !important;
   border-color: transparent;
