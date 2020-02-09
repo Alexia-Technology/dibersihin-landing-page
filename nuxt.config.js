@@ -25,7 +25,10 @@ export default {
   /*
   ** Global CSS
   */
- css: [{src: '@/assets/app.css',lang: 'css'},],
+ css: [
+ {src: '@/assets/app.css',lang: 'css'},
+ {src: '@/assets/transition.css',lang: 'css'},
+ ],
   /*
   ** Plugins to load before mounting the App
   */

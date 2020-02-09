@@ -27,7 +27,7 @@
           </div>
         </div>
         <hr>
-         <p class="has-text-white">Hak cipta &copy; 2020 alexiatech</p>
+         <p class="has-text-white">Copyrights  &copy; 2020 alexiatech</p>
         <!-- <p class="has-text-white">Copyright &copy; 2019 alexiatech. All rights reserved</p> -->
       </div>
     </div>
