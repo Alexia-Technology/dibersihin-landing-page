@@ -37,8 +37,8 @@ body {
 
 .button.is-merah-dfi.is-outlined {
   background-color: transparent !important;
-  border-color: #C31F54;
-  color: #C31F54;
+  border-color: #Cfff;
+  color: #fff;
 }
 
 .button.is-merah-dfi.is-outlined:hover {
