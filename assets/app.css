@@ -1,20 +1,20 @@
 body {
-    font-family: 'Manjari', sans-serif !important;
-    font-size: 16px;
-    word-spacing: 1px;
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
-    box-sizing: border-box;
-    margin-top: 10px;
-  }
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  word-spacing: 1px;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
 
 .is-fullwidth {
   width: 100%;
 }
 
-.br-12{
+.br-12 {
   border-radius: 12px;
 }
 
@@ -53,36 +53,41 @@ body {
   color: #fff;
 }
 
-
-
 .has-text-dark-alexa {
   color: #6C6F6E !important;
 }
 
-.has-text-biru-alexa {
-  color: #00BFE6 !important;
+.has-text-digawean-primary {
+  color: #F08300 !important;
 }
 
-img.fullwidth{
+img.fullwidth {
   width: 100%;
 }
 
-.mb-5{
+.mb-5 {
   margin-bottom: 7px;
 }
 
-@media(max-width: 767px) { /* <== You can change this break point as per your  needs */
+@media screen and (min-width: 1408px){
+.container {
+    max-width: 1152px !important;
+}
+}
+@media(max-width: 767px) {
+
+  /* <== You can change this break point as per your  needs */
   .custom-columns {
     flex-direction: column-reverse;
     display: flex;
   }
 }
 
-.is-overflowed{
+.is-overflowed {
   overflow: auto;
 }
 
-.br-50{
+.br-50 {
   border-radius: 50%;
 }
 

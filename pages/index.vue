@@ -1,33 +1,28 @@
 <template>
   <div>
     <banner/>
-    <quotes/>
-    <offering/>
-    <ourWork/>
-    <team/>
-    <contact/>
+    <about/>
+    <join/>
+    <download/>
   </div>
 </template>
 
 <script>
   import banner from '@/components/section/banner'
-  import quotes from '@/components/section/quotes'
-  import offering from '@/components/section/offering'
-  import ourWork from '@/components/section/ourwork'
-  import team from '@/components/section/team'
-  import contact from '@/components/section/contact'
+  import about from '@/components/section/about'
+  import join from '@/components/section/join'
+  import download from '@/components/section/download'
+
   export default {
     components: {
       banner,
-      quotes,
-      offering,
-      team,
-      contact,
-      ourWork
+      about,
+      download,
+      join
     },
     data() {
       return {
-        title: 'alexia technology'
+        title: 'Dibersihin'
       }
     },
     head() {
@@ -38,7 +33,7 @@
           {
             hid: 'description',
             name: 'description',
-            content: 'Kami ada untuk membantu memenuhi kebutuhan digital anda'
+            content: 'Pesan Cleaner Tanpa Ribet'
           }
         ]
       }

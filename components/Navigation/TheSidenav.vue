@@ -4,25 +4,25 @@
     <transition name="slide-side">
       <div v-if="show" class="sidenav">
 
-        <div class="close" @click="$emit('close')" style="position:absolute;right:8%;top:2%;cursor:pointer;"> <i class="fa fa-2x fa-times" aria-hidden="true"></i>
+        <div class="close" @click="$emit('close')" style="position:absolute;right:8%;top:2%;cursor:pointer;"> <i
+            class="fa fa-2x fa-times" aria-hidden="true"></i>
         </div>
         <ul class="nav-list" @click="$emit('close')">
-          <nuxt-link to="/" class="has-text-dark">
+          <nuxt-link to="#" v-scroll-to="'#home'" class="has-text-dark">
             <li class="nav-item">
-              Home
+              Beranda
             </li>
           </nuxt-link>
 
-        
-            <!-- <nuxt-link to="/portofolio" class="has-text-dark">
-              <li class="nav-item">
-              Portofolio
-               </li>
-            </nuxt-link> -->
-         
-          <nuxt-link to="/kontak" class="has-text-dark">
+          <nuxt-link to="#" v-scroll-to="'#about'" class="has-text-dark">
             <li class="nav-item">
-              Contact
+              Tentang Kami
+            </li>
+          </nuxt-link>
+
+          <nuxt-link to="#" v-scroll-to="'#join'" class="has-text-dark">
+            <li class="nav-item">
+              Gabung
             </li>
           </nuxt-link>
 
@@ -42,7 +42,6 @@
       }
     }
   };
-
 </script>
 
 
@@ -102,7 +101,6 @@
 
   .nav-item a:hover,
   .nav-item a:active {
-    color: #01bfe6;
+    color: #F08300;
   }
-
 </style>

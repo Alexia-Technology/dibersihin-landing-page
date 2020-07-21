@@ -1,43 +1,30 @@
 <template>
-
   <div class="header-container">
-
     <header class="the-header" :class="{ 'the-header--hidden': !showNavbar }" id="nav">
       <TheSideNavToggle @toggle="$emit('sidenavToggle')" />
       <div class="logo ">
-        <nuxt-link to="/"><img class="is-vertical-center" src="alexia_logo.png" alt="Alexia Logo">
+        <nuxt-link to="/"><img class="is-vertical-center" src="dibersihin-logo.svg" alt="Digawean Logo">
         </nuxt-link>
       </div>
       <div class="spacer"></div>
       <div class="navigation-items">
         <ul class="nav-list">
             <li class="nav-item">
-              <nuxt-link to="/" exact>Home</nuxt-link>
+              <nuxt-link to="" v-scroll-to="'#home'">Beranda</nuxt-link>
             </li>
-            <!-- <li class="nav-item">
-              <nuxt-link to="/portfolio">
-                Portfolio
+            <li class="nav-item">
+              <nuxt-link to="" v-scroll-to="'#about'">
+                Tentang Kami
               </nuxt-link>
             </li>
             <li class="nav-item">
-              <nuxt-link to="/about">
-                About
-              </nuxt-link>
-            </li> -->
-            <li class="nav-item">
-              <nuxt-link to="/kontak">
-                Contact
+              <nuxt-link to=""  v-scroll-to="'#join'">
+                Gabung
               </nuxt-link>
             </li>
-            <!-- <li class="nav-item">
-              <nuxt-link to="/articles">
-                Blog
-              </nuxt-link>
-            </li> -->
           </ul>
       </div>
     </header>
-
   </div>
 
 </template>
@@ -126,7 +113,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    /* background-color: rgb(255, 255, 255); */
+    background-color: rgb(255, 255, 255);
     /* background: -webkit-linear-gradient(top, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0.8) 65%, rgba(255, 255, 255, 0.5) 88%, rgba(255, 255, 255, 0.3) 100%); */
     z-index: 100;
     box-sizing: border-box;
@@ -180,7 +167,7 @@
   .nav-item a:hover,
   .nav-item a:active,
   .nav-item a.nuxt-link-active {
-    color: #01bfe6;
+    color: #F08300;
   }
 
   .is-vertical-center {

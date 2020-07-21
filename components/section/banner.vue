@@ -1,32 +1,92 @@
 <template>
-  <section class="home is-link is-fullheight is-vertical-center" style="position:relative;">
-    <div class="container">
-      <div class="hero-body">
-        <div class="columns custom-columns">
-          <div class="column is-6 is-vertical-center">
-            <div>
-              <h1 class="title has-text-biru-alexa is-size-1-desktop is-size-2-tablet is-size-3-mobile ls-5">
-                Meet Your Digital <br>
-                Needs</h1><br>
-              <p class="subtitle is-size-4-desktop is-size-5-tablet is-size-6-mobile has-text-dark-alexa">In the era
-                4.0, we bring collaboration to the whole new level of experiences. </p><br>
-              <a href="#offering" class="button is-info is-size-5-desktop is-size-6-tablet is-size-7-mobile">Find out more</a>
-            </div>
-          </div>
-          <div class="column is-6">
-            <img class="fullwidth" src="illustration_alexia.png" alt="">
-          </div>
-        </div>
-      </div>
+  <section class="home is-link  " style="position:relative" id="home">
+    <img src="banner-backdrop.png" class="backdrop-desktop" style="postion:absolute;top:0;left:0;bottom:0;right:0;"
+      alt="" />
+    <img src="backdrop-mobile.png" class="backdrop-mobile" style="postion:absolute;top:0;left:0;bottom:0;right:0;"
+      alt="" />
+    <div style="position:absolute;top:15%;left:0;bottom:0;right:0;">
+      <center>
+        <h1 class="title has-text-white is-size-1-desktop is-size-1-tablet is-size-5-mobile ls-5">
+          JASA PEMBERSIH RUMAH <br> DALAM GENGGAMAN</h1><br>
+        <p class="subtitle has-text-white is-size-4-desktop is-size-5-tablet is-size-6-mobile has-text-dark-alexa">
+          <b>Nikmati mudahnya
+            membersihkan rumah oleh cleaner terpercaya </b></p><br>
+        <button v-scroll-to="'#download'"
+          class="button button-download is-size-5-desktop is-size-6-tablet is-size-7-mobile"><b>DOWNLOAD
+            SEKARANG</b></button>
+      </center>
     </div>
   </section>
 </template>
 
-<style>
-  section.home {
-    min-height: 100vh;
+<style scoped>
+  .ls-5 {
+    letter-spacing: 5px;
   }
-  .ls-5{
-      letter-spacing: 5px;
+
+  .button {
+    background-color: #ffffff00;
+    border-color: #ffffff;
+    border-width: 4px;
+    color: #ffffff;
+    cursor: pointer;
+    justify-content: center;
+    padding-bottom: calc(0.375em - 1px);
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    padding-top: calc(0.375em - 1px);
+    text-align: center;
+    white-space: nowrap;
+    border-radius: 7px;
+  }
+
+  @media screen and (max-width: 2560px) and (min-width: 1026px) {
+    img.backdrop-mobile {
+      display: none;
+    }
+
+    .is-size-1-desktop {
+      font-size: 4rem !important;
+      font-weight: 900;
+    }
+  }
+
+  @media screen and (max-width: 1440px) and (min-width: 1025px) {
+    img.backdrop-mobile {
+      display: none;
+    }
+
+    .is-size-1-desktop {
+      font-size: 4rem !important;
+      font-weight: 900;
+    }
+  }
+
+  @media screen and (max-width: 1024px) and (min-width: 769px) {
+    img.backdrop-mobile {
+      display: none;
+    }
+  }
+
+  @media screen and (max-width: 768px) and (min-width: 426px) {
+    img.backdrop-mobile {
+      display: none;
+    }
+
+    .is-size-1-tablet {
+      font-size: 1.5rem !important;
+      font-weight: 700;
+    }
+  }
+
+  @media screen and (max-width: 425px) and (min-width: 0px) {
+    img.backdrop-desktop {
+      display: none;
+    }
+
+    .is-size-5-mobile {
+      font-size: 20px;
+      font-weight: 800;
+    }
   }
 </style>
