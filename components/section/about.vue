@@ -5,7 +5,7 @@
         <div class="hero-body">
           <div class="columns custom-columns">
             <div class="column is-6">
-              <img class="fullwidth p-70" src="order.png" alt="">
+              <img class="fullwidth p-70" src="order.png" alt=""> 
             </div>
             <div class="column is-6 is-vertical-center">
               <div class="p-30">
@@ -72,6 +72,7 @@
     margin-bottom: 40px;
   }
 
+  /* media query setting */
   @media screen and (max-width: 425px) and (min-width: 0px) {
     .p-70 {
       padding: 10px;
