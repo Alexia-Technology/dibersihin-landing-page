@@ -5,7 +5,7 @@
         <div class="hero-body">
           <div class="columns custom-columns">
             <div class="column is-6">
-              <img class="fullwidth p-70" src="order.png" alt=""> 
+              <img class="fullwidth p-70" src="order-illustration.png" alt=""> 
             </div>
             <div class="column is-6 is-vertical-center">
               <div class="p-30">
