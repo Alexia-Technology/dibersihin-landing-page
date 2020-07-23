@@ -17,6 +17,8 @@
                 <p>Hubungi : </p>
                 <p class="has-text-digawean-primary"><b>
                     <font-awesome-icon :icon="['fas', 'phone-alt']" size="lg" /> 021-2787-5400</b></p>
+                <p class="has-text-digawean-primary"><b>
+                    <font-awesome-icon :icon="['fas', 'envelope']" size="lg" /> kontakkami@digawean.com</b></p>
               </div>
             </div>
           </div>
@@ -36,7 +38,7 @@
 
       }
     },
-   
+
   }
 </script>
 

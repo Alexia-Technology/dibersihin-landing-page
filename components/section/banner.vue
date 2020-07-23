@@ -7,10 +7,10 @@
     <div style="position:absolute;top:15%;left:0;bottom:0;right:0;">
       <center>
         <h1 class="title has-text-white is-size-1-desktop is-size-1-tablet is-size-5-mobile ls-5">
-          JASA PEMBERSIH RUMAH <br> DALAM GENGGAMAN</h1><br>
+          JASA PEMBERSIH TEMPAT TINGGAL & KERJA ANDA DALAM GENGGAMAN</h1><br>
         <p class="subtitle has-text-white is-size-4-desktop is-size-5-tablet is-size-6-mobile has-text-dark-alexa">
           <b>Nikmati mudahnya
-            membersihkan rumah oleh cleaner terpercaya </b></p><br>
+            membersihkan tempat tinggal dan kerja anda oleh cleaner terpercaya </b></p><br>
         <button v-scroll-to="'#download'"
           class="button button-download is-size-5-desktop is-size-6-tablet is-size-7-mobile"><b>DOWNLOAD
             SEKARANG</b></button>
@@ -57,8 +57,8 @@
     }
 
     .is-size-1-desktop {
-      font-size: 4rem !important;
-      font-weight: 900;
+      font-size: 3rem !important;
+      font-weight: 800;
     }
   }
 

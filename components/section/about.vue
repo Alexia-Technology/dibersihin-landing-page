@@ -12,8 +12,8 @@
                 <h1 class=" m-b-40 title has-text-black is-size-3-desktop is-size-3-tablet is-size-4-mobile">
                   <b>Pesan cleaner tanpa ribet</b></h1>
                 <p class="subtitle is-size-4-desktop is-size-4-tablet is-size-6-mobile has-text-dark-alexa"><b>Pesan
-                    layanan pembersih rumah hanya dalam satu sentuhan melalui aplikasi <span
-                      class="has-text-digawean-primary"> Dibersihin</span></b></p>
+                    layanan pembersih tempat tinggal & kerja anda hanya dalam satu sentuhan melalui aplikasi <span
+                      class="has-text-digawean-primary"> dibersihin</span></b></p>
               </div>
             </div>
           </div>
@@ -21,7 +21,7 @@
             <div class="column is-6 is-vertical-center">
               <div class="p-30">
                 <h1 class="m-b-40 title has-text-black is-size-3-desktop is-size-3-tablet is-size-4-mobile">
-                  <b>Solusi mudah <span class="has-text-digawean-primary">bersihin</span> rumah</b></h1>
+                  <b>Solusi mudah tempat tinggal & kerja anda <span class="has-text-digawean-primary">dibersihin</span></b></h1>
                 <p class="subtitle is-size-4-desktop is-size-4-tablet is-size-6-mobile has-text-dark-alexa"><b>Duduk
                     santai, serahkan urusan <span class="has-text-digawean-primary">bersih-bersih</span> pada kami</b>
                 </p>

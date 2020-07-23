@@ -38,7 +38,7 @@
                   </p>
                 </td>
                 <td>
-                  <p class="has-text-white"> 021 278754400</p>
+                  <p class="has-text-white"> 021 27875400</p>
                 </td>
               </tr>
             </table>
@@ -60,7 +60,7 @@
 
         </div>
         <hr>
-        <p class="has-text-white">Copyrights &copy; 2020 PT. Digawean Integrasi Teknologi</p>
+        <p class="has-text-white is-size-7-mobile">Copyrights &copy; 2020 PT. Digawean Integrasi Teknologi</p>
       </div>
     </div>
 
