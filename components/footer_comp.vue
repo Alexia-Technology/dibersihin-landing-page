@@ -16,7 +16,7 @@
                   </p>
                 </td>
                 <td>
-                  <p class="has-text-white"> Jl. Taman Margasatwa Raya No.37 Unit 02, Jati Padang, <br> Kec.Ps. Minggu,
+                  <p class="has-text-white"> Jl. Taman Margasatwa Raya No.37 Unit 02, Jati Padang, Kec.Ps. Minggu,
                     Kota Jakarta
                     Selatan, Daerah Khusus Ibukota Jakarta 12540</p>
                 </td>
@@ -28,7 +28,7 @@
                   </p>
                 </td>
                 <td>
-                  <p class="has-text-white">kontakkami@digawean.com</p>
+                  <p class="has-text-white">kontakkami@dibersihin.com</p>
                 </td>
               </tr>
               <tr>

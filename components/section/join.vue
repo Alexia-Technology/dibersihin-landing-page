@@ -12,13 +12,12 @@
             <div class="card-content">
               <div class="content has-text-centered">
                 <h2 class="title is-3"><b>Jadi Partner Kami</b></h2>
-                <p class="has-text-small">Bergabung menjadi partner bisnis bersama Dibersihin sehingga bisa mendapatkan
-                  penghasilan</p>
+                <p class="has-text-small">Bergabung menjadi partner bisnis bersama <span class="has-text-digawean-primary"><b>Dibersihin</b></span></p>
                 <p>Hubungi : </p>
                 <p class="has-text-digawean-primary"><b>
                     <font-awesome-icon :icon="['fas', 'phone-alt']" size="lg" /> 021-2787-5400</b></p>
                 <p class="has-text-digawean-primary"><b>
-                    <font-awesome-icon :icon="['fas', 'envelope']" size="lg" /> kontakkami@digawean.com</b></p>
+                    <font-awesome-icon :icon="['fas', 'envelope']" size="lg" /> kontakkami@dibersihin.com</b></p>
               </div>
             </div>
           </div>
