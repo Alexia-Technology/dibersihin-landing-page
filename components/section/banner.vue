@@ -7,7 +7,7 @@
     <div style="position:absolute;top:15%;left:0;bottom:0;right:0;">
       <center>
         <h1 class="title has-text-white is-size-1-desktop is-size-1-tablet is-size-5-mobile ls-5">
-         APLIKASI JASA KEBERSIHIN DALAM GENGGAMAN</h1><br>
+         APLIKASI JASA KEBERSIHAN DALAM GENGGAMAN</h1><br>
         <p class="subtitle has-text-white is-size-4-desktop is-size-5-tablet is-size-6-mobile has-text-dark-alexa">
           <b>Hargai waktu luang anda, nikmati dibersihin oleh cleaner terpercaya </b></p><br>
         <button v-scroll-to="'#download'"
