@@ -1,6 +1,6 @@
 <template>
   <section class="home is-link  " style="position:relative" id="home">
-    <img src="banner-backdrop.png" class="backdrop-desktop" style="postion:absolute;top:0;left:0;bottom:0;right:0;"
+    <img src="banner-backdrop-1.svg" class="backdrop-desktop" style="postion:absolute;top:0;left:0;bottom:0;right:0;"
       alt="" />
     <img src="backdrop-mobile.png" class="backdrop-mobile" style="postion:absolute;top:0;left:0;bottom:0;right:0;"
       alt="" />

@@ -9,15 +9,18 @@
       <div class="spacer"></div>
       <div class="navigation-items">
         <ul class="nav-list">
-            <li class="nav-item">
-              <nuxt-link to="" v-scroll-to="'#home'">Beranda</nuxt-link>
+           <li class="nav-item p-b-2">
+               <nuxt-link to="#">   <img src="garuda.svg" alt=""> </nuxt-link>
             </li>
-            <li class="nav-item">
+            <li class="nav-item p-b-4">
+              <nuxt-link to="" v-scroll-to="'#home'"> Beranda</nuxt-link>
+            </li>
+            <li class="nav-item p-b-4">
               <nuxt-link to="" v-scroll-to="'#about'">
                 Tentang Kami
               </nuxt-link>
             </li>
-            <li class="nav-item">
+            <li class="nav-item p-b-4">
               <nuxt-link to=""  v-scroll-to="'#join'">
                 Gabung
               </nuxt-link>
@@ -87,6 +90,13 @@
 
 
 <style scoped>
+li.nav-item.p-b-4{
+  padding-top:6px !important;
+}
+
+li.nav-item.p-b-2{
+  padding-top:2px !important;
+}
   .the-header.shrink {
     transition: all 0.5s;
     background: white;

@@ -46,8 +46,16 @@
           <div class="column">
             <h2 class="subtitle is-size-4-desktop is-size-5-tablet is-size-6-mobile  has-text-white">
               <b> Unduh Aplikasi </b></h2>
-            <img src="play-store-btn-2.svg" style="width:125px;" alt="">
-            <br><br>
+            <div class="columns is-mobile">
+              <div class="column is-narrow">
+                <p class="has-text-white"><small> Customer</small></p>
+                <img src="play-store-btn-2.svg" style="width:125px;" alt="">
+              </div>
+              <div class="column iis-narrow">
+                <p class="has-text-white"> <small>Cleaner</small></p>
+                <a href="/apk/cleaner-v1.apk" download=""> <img src="play-store-btn-2.svg" style="width:125px;" alt=""></a>
+              </div>
+            </div>
             <h2 class="subtitle is-size-4-desktop is-size-5-tablet is-size-6-mobile  has-text-white">
               <b> Ikuti kami </b></h2>
             <a href="#">
@@ -60,7 +68,8 @@
 
         </div>
         <hr>
-        <p class="has-text-white is-size-7-mobile">Copyrights &copy; 2020 PT. Digawean Integrasi Teknologi</p>
+        <p class="has-text-white is-size-7-mobile">Copyrights &copy; 2020 <a href="http://www.digawean.com/"
+            target="_blank">PT. Digawean Integrasi Teknologi</a></p>
       </div>
     </div>
 

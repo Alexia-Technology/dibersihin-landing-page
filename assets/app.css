@@ -74,8 +74,7 @@ img.fullwidth {
     max-width: 1152px !important;
 }
 }
-@media(max-width: 767px) {
-
+@media(max-width: 768px) {
   /* <== You can change this break point as per your  needs */
   .custom-columns {
     flex-direction: column-reverse;
