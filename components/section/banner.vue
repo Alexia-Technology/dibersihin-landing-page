@@ -2,7 +2,7 @@
   <section class="home is-link  " style="position:relative" id="home">
     <img src="banner.png" class="backdrop-desktop" style="postion:absolute;top:0;left:0;bottom:0;right:0;"
       alt="" />
-    <img src="backdrop-mobile.png" class="backdrop-mobile" style="postion:absolute;top:0;left:0;bottom:0;right:0;"
+    <img src="ilustrasi_mobile.png" class="backdrop-mobile" style="postion:absolute;top:0;left:0;bottom:0;right:0;"
       alt="" />
     <div style="position:absolute;top:15%;left:0;bottom:0;right:0;">
       <center>
