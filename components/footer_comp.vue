@@ -49,12 +49,16 @@
             <div class="columns is-mobile">
               <div class="column is-narrow">
                 <p class="has-text-white"><small> Customer</small></p>
-                <a href="/apk/dibersihin-customer-v1.apk" download=""> <img src="play-store-btn-2.svg"
+                <!-- <a href="/apk/dibersihin-customer-v1.apk" download=""> <img src="play-store-btn-2.svg"
+                    style="width:125px;" alt=""></a> -->
+                <a> <img src="play-store-btn-2.svg"
                     style="width:125px;" alt=""></a>
               </div>
               <div class="column iis-narrow">
                 <p class="has-text-white"> <small>Cleaner</small></p>
-                <a href="/apk/dibersihin-cleaner-v1.apk" download=""> <img src="play-store-btn-2.svg"
+                <!-- <a href="/apk/dibersihin-cleaner-v1.apk" download=""> <img src="play-store-btn-2.svg"
+                    style="width:125px;" alt=""></a> -->
+                <a> <img src="play-store-btn-2.svg"
                     style="width:125px;" alt=""></a>
               </div>
             </div>

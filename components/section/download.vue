@@ -10,11 +10,13 @@
               <div class="columns">
                 <div class="column">
                   <p><b>Customer</b></p>
-                  <a href="/apk/dibersihin-customer-v1.apk" download=""> <img src="play-store-btn-1.svg" alt=""></a>
+                  <!-- <a href="/apk/dibersihin-customer-v1.apk" download=""> <img src="play-store-btn-1.svg" alt=""></a> -->
+                  <a> <img src="play-store-btn-1.svg" alt=""></a>
                 </div>
                 <div class="column">
                   <p><b>Cleaner</b></p>
-                  <a href="/apk/dibersihin-cleaner-v1.apk" download=""> <img src="play-store-btn-1.svg" alt=""></a>
+                  <!-- <a href="/apk/dibersihin-cleaner-v1.apk" download=""> <img src="play-store-btn-1.svg" alt=""></a> -->
+                  <a> <img src="play-store-btn-1.svg" alt=""></a>
                 </div>
               </div>
               </center>
