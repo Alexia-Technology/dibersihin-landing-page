@@ -108,7 +108,17 @@
               <br>
               <li> <h1
                   class=" m-b-40 title has-text-black is-size-4-desktop is-size-4-tablet is-size-4-mobile has-text-center">
-                  <b>Information obtained from you or from your mobile device directly</b></h1></li>
+                  <b>Information obtained from you or from your mobile device directly</b></h1>
+                  <div class="content">
+                    <ol type="a">
+                      <li>We may disclose to or share with affiliates and other parties your Personal Information for any of the following purposes as well as for such other purposes as are permitted by applicable law:</li>
+                    <li>We will not sell or lease your Personal Information.</li>
+                    <li>Other than as provided for in this Privacy Policy, we may disclose or share your Personal Information if we notify you and we have obtained your consent for the disclosure or sharing.</li>
+                    <li>Where it is not necessary for the Personal Information to be associated with you, we will use reasonable endeavors to remove the means by which the Personal Information can be associated with you as an individual before disclosing or sharing such information.</li>
+                    </ol>
+                  </div>
+                  </li>
+                  
             </ol>
           </div>
         </div>
