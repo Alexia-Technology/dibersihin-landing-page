@@ -1,131 +1,181 @@
 <template>
+
   <div>
-    <section class="offering is-link is-fullheight is-vertical-center" id="about">
+    <section id="about" class="offering is-link is-fullheight is-vertical-center">
       <div class="container">
         <div class="hero-body">
           <h1 class=" m-b-40 title has-text-black is-size-3-desktop is-size-3-tablet is-size-4-mobile has-text-center">
-            <b>PRIVACY POLICY</b></h1>
+            <b>KETENTUAN RAHASIA PRIBADI</b></h1>
           <p>
-            PRIVACY POLICY
-            as of 30 July 2020
-            The following Privacy Policy describes how we, dibersihin (PT Digawean Integrasi Teknologi and affiliates,
-            “we, “us” or “our”) collect, store, use, process, retain, transfer, disclose and protect your Personal
-            Information. This Privacy Policy applies to all users of our applications, websites (www.dibersihin.com),
-            services, or products (“Applications”), unless covered by a separate privacy policy.
-            Please read this Privacy Policy thoroughly to ensure that you understand our data processing practices.
-            Unless otherwise defined, all capitalized terms used in this Privacy Policy shall have the same meaning
-            ascribed to them in the Terms of Use.
+            KETENTUAN RAHASIA PRIBADI
+            per 30 Juli 2020 Kebijakan Privasi berikut menjelaskan bagaimana kami,
+            dibersihin (PT Digawean Integrasi Teknologi dan afiliasinya, "kami," kami "atau"
+            milik kami ") mengumpulkan, menyimpan, menggunakan, memproses, menyimpan,
+            mentransfer, mengungkapkan dan melindungi Informasi Pribadi Anda. Kebijakan
+            Privasi ini berlaku untuk semua pengguna aplikasi, situs web
+            (www.dibersihin.com), layanan, atau produk ("Aplikasi") kami, kecuali dicakup
+            oleh kebijakan privasi terpisah. Harap baca Kebijakan Privasi ini secara
+            menyeluruh untuk memastikan bahwa Anda memahami praktik pemrosesan data kami.
+            Kecuali ditentukan lain, semua istilah dalam huruf besar yang digunakan dalam
+            Kebijakan Privasi ini akan memiliki arti yang sama seperti yang dijelaskan dalam
+            Ketentuan Penggunaan.
             <br><br>
-            This Privacy Policy includes the following matters:</p>
+            Kebijakan Privasi ini mencakup hal-hal berikut:</p>
           <div class="content">
             <ul>
-              <li> Personal Information which we collect</li>
-              <li> The use of Personal Information which we collect</li>
-              <li> Sharing of Personal Information which we collect</li>
-              <li> Retention of Personal Information</li>
-              <li> Access and correction of Personal Information</li>
-              <li> Where we store your Personal Information</li>
-              <li> Security of your Personal Information</li>
-              <li> Changes to this Privacy Policy</li>
-              <li> Acknowledgment and consent</li>
-              <li> Marketing and promotional material</li>
-              <li> Anonymous Data</li>
-              <li> Third party platforms</li>
-              <li> How to contact us</li>
+              <li> Informasi Pribadi yang kami kumpulkan</li>
+              <li> Penggunaan Informasi Pribadi yang kami kumpulkan</li>
+              <li> Berbagi Informasi Pribadi yang kami kumpulkan</li>
+              <li> Penyimpanan Informasi Pribadi</li>
+              <li> Akses dan koreksi Informasi Pribadi</li>
+              <li> Lokasi menyimpan Informasi Pribadi Anda</li>
+              <li>Keamanan Informasi Pribadi Anda</li>
+              <li> Perubahan pada Kebijakan Privasi ini</li>
+              <li> Pengakuan dan persetujuan</li>
+              <li> Materi pemasaran dan promosi</li>
+              <li> Data Anonim</li>
+              <li> Platform pihak ketiga</li>
+              <li> Cara menghubungi kami</li>
             </ul>
           </div>
-
           <div class="content">
             <ol type="1">
               <li>
                 <h1
                   class=" m-b-40 title has-text-black is-size-4-desktop is-size-4-tablet is-size-4-mobile has-text-center">
-                  <b>Personal Information which we collect</b></h1>
-                <p>We collect information which identifies or can be used to identify, contact, or locate the person or
-                  device to whom that information pertains (“Personal Information”). Personal Information includes, but
-                  not limited to, name, address, date of birth, occupation, phone number, e-mail address, bank account
-                  and credit-card details, gender, identification (including KTP, SIM, or Passport) or other government
-                  issued identifier, vehicle information, photo, nationality, phone number of our users and non-users in
-                  your mobile phonebook, health data, financial related information, and biometric information
-                  (including but not limited to facial recognition). Additionally, to the extent other information,
-                  including a personal profile, and/or unique identifier, is associated or combined with Personal
-                  Information, then that information is also Personal Information. The Personal Information which we
-                  collect may be provided by you directly or by third parties (for example: when you register or use the
-                  Application, when you contact our customer services, or you otherwise provide Personal Information to
-                  us). We may collect information in various forms and purposes (including purposes permitted under
-                  applicable law).</p>
+                  <b>Informasi Pribadi yang kami kumpulkan</b></h1>
+                <p>Kami mengumpulkan informasi yang mengidentifikasi atau dapat
+                  digunakan untuk mengidentifikasi, menghubungi, atau menemukan orang
+                  atau perangkat yang terkait dengan informasi tersebut ("Informasi
+                  Pribadi"). Informasi Pribadi termasuk, tetapi tidak terbatas pada,
+                  nama, alamat, tanggal lahir, pekerjaan, nomor telepon, alamat email,
+                  rekening bank dan detail kartu kredit, jenis kelamin, identifikasi
+                  (termasuk KTP, SIM, atau Paspor) atau informasi pemerintah lainnya.
+                  pengenal yang dikeluarkan, informasi kendaraan, foto, kebangsaan,
+                  nomor telepon pengguna dan non-pengguna kami di buku telepon seluler
+                  Anda, data kesehatan, informasi terkait keuangan, dan informasi
+                  biometrik (termasuk namun tidak terbatas pada pengenalan wajah).
+                  Selain itu, sejauh informasi lain, termasuk profil pribadi, dan /
+                  atau pengenal unik, dikaitkan atau digabungkan dengan Informasi
+                  Pribadi, maka informasi tersebut juga merupakan Informasi Pribadi.
+                  Informasi Pribadi yang kami kumpulkan dapat diberikan oleh Anda
+                  secara langsung atau oleh pihak ketiga (misalnya: saat Anda
+                  mendaftar atau menggunakan Aplikasi, saat Anda menghubungi layanan
+                  pelanggan kami, atau sebaliknya Anda memberikan Informasi Pribadi
+                  kepada kami). Kami dapat mengumpulkan informasi dalam berbagai
+                  bentuk dan tujuan (termasuk tujuan yang diizinkan berdasarkan hukum
+                  yang berlaku).
+                </p>
                 <h1
                   class=" m-b-40 title has-text-black is-size-4-desktop is-size-4-tablet is-size-4-mobile has-text-center">
-                  <b>Information obtained from you or from your mobile device directly</b></h1>
+                  <b>Informasi yang diperoleh dari Anda atau dari perangkat seluler
+                    Anda secara langsung</b></h1>
                 <div class="content">
                   <ul>
-                    <li>When you register and create an account with us using the Application you have to provide to us
-                      certain Personal Information, including your name, physical address, e-mail address and your phone
-                      number. If you are using the Application as a service provider, you have to provide us with
-                      additional Personal Information as part of the service provider onboarding process. This would
-                      include details of your vehicle (licenses, approvals, and other authorizations for you to operate
-                      the vehicle and to provide the transportation services), your insurance policy, and your bank
-                      account.</li>
+                    <li>Saat Anda mendaftar dan membuat akun dengan kami menggunakan
+                      Aplikasi, Anda harus memberikan kepada kami Informasi
+                      Pribadi tertentu, termasuk nama, alamat fisik, alamat email,
+                      dan nomor telepon Anda. Jika Anda menggunakan Aplikasi
+                      sebagai penyedia layanan, Anda harus memberi kami Informasi
+                      Pribadi tambahan sebagai bagian dari proses orientasi
+                      penyedia layanan. Ini mencakup perincian kendaraan Anda
+                      (lisensi, persetujuan, dan otorisasi lainnya bagi Anda untuk
+                      mengoperasikan kendaraan dan untuk menyediakan layanan
+                      transportasi), polis asuransi Anda, dan rekening bank Anda.
+                    </li>
                   </ul>
                 </div>
-              </li>
-              <br>
+              </li> <br>
               <li>
                 <h1
                   class=" m-b-40 title has-text-black is-size-4-desktop is-size-4-tablet is-size-4-mobile has-text-center">
-                  <b>THE USE OF PERSONAL INFORMATION WHICH WE COLLECT</b></h1>
-                <p>We may use Personal Information collected for any of the following purposes as well as for such other
-                  purposes as are permitted by applicable law (“Purposes”):</p>
+                  <b>PENGGUNAAN INFORMASI PRIBADI YANG KAMI KUMPULKAN</b></h1>
+                <p>Kami dapat menggunakan Informasi Pribadi yang dikumpulkan untuk salah
+                  satu tujuan berikut serta untuk tujuan lain seperti yang diizinkan
+                  oleh hukum yang berlaku ("Tujuan"):</p>
                 <div class="content">
                   <ul>
-                    <li>to identify you and to register you as a user and to administer, verify, deactivate, or manage
-                      your account as such;</li>
-                    <li>to facilitate or enable any verification as we may in our discretion consider necessary before
-                      the service provider provide you with the services or before we register you as a user, including
-                      performing Know Your Customer (KYC) and credit scoring;</li>
-                    <li>to enable service providers to provide you with such of the services as you have requested;
+                    <li>Untuk mengidentifikasi Anda dan untuk mendaftarkan Anda
+                      sebagai pengguna dan untuk mengelola, memverifikasi,
+                      menonaktifkan, atau mengelola akun Anda seperti itu;</li>
+                    <li>Untuk memfasilitasi atau mengaktifkan verifikasi apa pun
+                      yang menurut kebijakan kami dianggap perlu sebelum penyedia
+                      layanan menyediakan layanan kepada Anda atau sebelum kami
+                      mendaftarkan Anda sebagai pengguna, termasuk melakukan Know
+                      Your Customer (KYC) dan penilaian kredit;</li>
+                    <li>Untuk memungkinkan penyedia layanan menyediakan layanan
+                      seperti yang Anda minta;
                     </li>
-                    <li>to process and facilitate orders and payment transactions made by you, including where
-                      applicable, transactions made through any payment card or account available over the Application;
+                    <li>Untuk memproses dan memfasilitasi pesanan dan transaksi
+                      pembayaran yang Anda lakukan, termasuk jika berlaku,
+                      transaksi yang dilakukan melalui kartu pembayaran atau akun
+                      yang tersedia melalui Aplikasi;
                     </li>
-                    <li>to notify you of any transaction or activities occurred within the Application or other system
-                      linked to our Application;</li>
-                    <li>to communicate with you and to send you information in connection with the use of the
-                      Application; </li>
-                    <li>to notify you of any updates to the Application or changes to the services available; </li>
-                    <li>to process and respond to enquiries and feedback received from you; </li>
-                    <li>to maintain, develop, test, enhance and personalize the Application to meet your needs and
-                      preferences as a user;</li>
-                    <li>to monitor and analyse user activities, behaviour, and demographic data including trends and
-                      usage of the various services available on the Application; </li>
-                    <li>to process and manage your reward points;</li>
-                    <li>to offer or provide services from our affiliates or partners; and </li>
-                    <li>to send you direct or targeted marketing communications, advertisement, vouchers, surveys, and
-                      information on special offers or promotions.</li>
+                    <li>untuk memberi tahu Anda tentang transaksi atau aktivitas apa
+                      pun yang terjadi dalam Aplikasi atau sistem lain yang
+                      terkait dengan Aplikasi kami;</li>
+                    <li>untuk berkomunikasi dengan Anda dan untuk mengirimi Anda
+                      informasi sehubungan dengan penggunaan Aplikasi;
+                    </li>
+                    <li>Untuk memberi tahu Anda tentang pembaruan apa pun pada
+                      Aplikasi atau perubahan pada layanan yang tersedia;
+                    </li>
+                    <li>Untuk memproses dan menanggapi pertanyaan dan umpan balik
+                      yang diterima dari Anda;</li>
+                    <li>Untuk memelihara, mengembangkan, menguji, meningkatkan dan
+                      mempersonalisasi Aplikasi untuk memenuhi kebutuhan dan
+                      preferensi Anda sebagai pengguna;</li>
+                    <li>Untuk memantau dan menganalisis aktivitas pengguna,
+                      perilaku, dan data demografis termasuk tren dan penggunaan
+                      berbagai layanan yang tersedia di Aplikasi;
+                    </li>
+                    <li>untuk memproses dan mengelola poin reward Anda;
+                    </li>
+                    <li>untuk menawarkan atau menyediakan layanan dari afiliasi atau
+                      mitra kami; dan
+                    </li>
+                    <li>untuk mengirimi Anda komunikasi pemasaran, iklan, voucher,
+                      survei, dan informasi langsung atau tertarget tentang
+                      penawaran khusus atau promosi.
+                    </li>
                   </ul>
                 </div>
-              </li>
-              <br>
-              <li> <h1
+              </li> <br>
+              <li>
+                <h1
                   class=" m-b-40 title has-text-black is-size-4-desktop is-size-4-tablet is-size-4-mobile has-text-center">
-                  <b>Information obtained from you or from your mobile device directly</b></h1>
-                  <div class="content">
-                    <ol type="a">
-                      <li>We may disclose to or share with affiliates and other parties your Personal Information for any of the following purposes as well as for such other purposes as are permitted by applicable law:</li>
-                    <li>We will not sell or lease your Personal Information.</li>
-                    <li>Other than as provided for in this Privacy Policy, we may disclose or share your Personal Information if we notify you and we have obtained your consent for the disclosure or sharing.</li>
-                    <li>Where it is not necessary for the Personal Information to be associated with you, we will use reasonable endeavors to remove the means by which the Personal Information can be associated with you as an individual before disclosing or sharing such information.</li>
-                    </ol>
-                  </div>
-                  </li>
-                  
+                  <b>Informasi yang diperoleh dari Anda atau dari perangkat seluler
+                    Anda secara langsung</b></h1>
+                <div class="content">
+                  <ol type="a">
+                    <li>Kami dapat mengungkapkan atau berbagi dengan afiliasi dan
+                      pihak lain Informasi Pribadi Anda untuk tujuan berikut ini
+                      serta untuk tujuan lain seperti yang diizinkan oleh hukum
+                      yang berlaku:</li>
+                    <li>Kami tidak akan menjual atau menyewakan Informasi Pribadi
+                      Anda.
+                    </li>
+                    <li>Selain sebagaimana diatur dalam Kebijakan Privasi ini, kami
+                      dapat mengungkapkan atau membagikan Informasi Pribadi Anda
+                      jika kami memberi tahu Anda dan kami telah memperoleh
+                      persetujuan Anda untuk pengungkapan atau pembagian tersebut.
+                    </li>
+                    <li>Jika Informasi Pribadi tidak perlu dikaitkan dengan Anda,
+                      kami akan melakukan upaya yang wajar untuk menghapus cara
+                      Informasi Pribadi dapat dikaitkan dengan Anda sebagai
+                      individu sebelum mengungkapkan atau membagikan informasi
+                      tersebut.
+                    </li>
+                  </ol>
+                </div>
+              </li>
             </ol>
           </div>
         </div>
       </div>
     </section>
-
   </div>
+
 </template>
 
 <script>
