@@ -5,7 +5,7 @@
 </template>
 
 <script>
-  import pp from '@/components/privacy_policy_bahasa'
+  import pp from '@/components/privacy_policy_eng'
 
   export default {
     components: {
