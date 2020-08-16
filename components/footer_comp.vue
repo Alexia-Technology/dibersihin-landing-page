@@ -64,11 +64,11 @@
             </div>
             <h2 class="subtitle is-size-4-desktop is-size-5-tablet is-size-6-mobile  has-text-white">
               <b> Ikuti kami </b></h2>
-            <a href="#">
+            <a href="https://instagram.com/dibersihin.apps" target="_blank">
               <font-awesome-icon :icon="['fab', 'instagram']" size="2x" /></a>
-            <a href="#">
-              <font-awesome-icon :icon="['fab', 'youtube']" size="2x" /></a>
-            <a href="#">
+            <!-- <a href="#">
+              <font-awesome-icon :icon="['fab', 'youtube']" size="2x" /></a> -->
+            <a href="https://www.facebook.com/dibersihin/" target="_blank">
               <font-awesome-icon :icon="['fab', 'facebook-square']" size="2x" /></a>
           </div>
 
