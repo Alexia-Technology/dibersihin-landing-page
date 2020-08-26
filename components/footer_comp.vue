@@ -48,19 +48,17 @@
               <b> Unduh Aplikasi </b></h2>
             <div class="columns is-mobile">
               <div class="column is-narrow">
-                <p class="has-text-white"><small> Customer</small></p>
+                <!-- <p class="has-text-white"><small> Customer</small></p> -->
                 <a href="https://play.google.com/store/apps/details?id=com.dibersihin.customer" download=""> <img src="play-store-btn-2.svg"
                     style="width:125px;" alt=""></a>
                 <!-- <a> <img src="play-store-btn-2.svg"
                     style="width:125px;" alt=""></a> -->
               </div>
-              <div class="column iis-narrow">
+              <!-- <div class="column is-narrow">
                 <p class="has-text-white"> <small>Cleaner</small></p>
                 <a href="https://play.google.com/store/apps/details?id=com.dibersihin.cleaner" download=""> <img src="play-store-btn-2.svg"
                     style="width:125px;" alt=""></a>
-                <!-- <a> <img src="play-store-btn-2.svg"
-                    style="width:125px;" alt=""></a> -->
-              </div>
+              </div> -->
             </div>
             <h2 class="subtitle is-size-4-desktop is-size-5-tablet is-size-6-mobile  has-text-white">
               <b> Ikuti kami </b></h2>

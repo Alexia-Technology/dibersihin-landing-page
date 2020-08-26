@@ -9,15 +9,14 @@
                 Dapatkan Aplikasinya</h1>
               <div class="columns">
                 <div class="column">
-                  <p><b>Customer</b></p>
+                  <!-- <p><b>Customer</b></p> -->
                   <a href="https://play.google.com/store/apps/details?id=com.dibersihin.customer" download=""> <img src="play-store-btn-1.svg" alt=""></a>
                   <!-- <a> <img src="play-store-btn-1.svg" alt=""></a> -->
                 </div>
-                <div class="column">
+                <!-- <div class="column">
                   <p><b>Cleaner</b></p>
                   <a href="https://play.google.com/store/apps/details?id=com.dibersihin.cleaner" download=""> <img src="play-store-btn-1.svg" alt=""></a>
-                  <!-- <a> <img src="play-store-btn-1.svg" alt=""></a> -->
-                </div>
+                </div> -->
               </div>
               </center>
           </div>
