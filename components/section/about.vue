@@ -11,9 +11,10 @@
               <div class="p-30">
                 <h1 class=" m-b-40 title has-text-black is-size-3-desktop is-size-3-tablet is-size-4-mobile">
                   <b>Pesan cleaner tanpa ribet</b></h1>
-                <p class="subtitle is-size-4-desktop is-size-4-tablet is-size-6-mobile has-text-dark-alexa"><b>Pesan
-                    cukup dengan satu sentuhan ruangan favorit jadi kinclong setelah <span
-                      class="has-text-digawean-primary"> dibersihin</span></b></p>
+                <p class="subtitle is-size-6-desktop is-size-6-tablet is-size-6-mobile has-text-dark-alexa"><b>Pesan
+                    cukup dengan satu sentuhan di HP kita, ruangan favorit jadi kinclong setelah <span
+                      class="has-text-digawean-primary"> dibersihin</span> <br> <br>
+                      Begitu mudahnya <span class="has-text-digawean-primary"> dibersihin</span>, duduk santai, nikmati waktu luang dan serahkan urusan pada cleaner, karena selalu saja ada yang perlu <span class="has-text-digawean-primary"> dibersihin</span> </b></p>
               </div>
             </div>
           </div>
@@ -21,14 +22,28 @@
             <div class="column is-6 is-vertical-center">
               <div class="p-30">
                 <h1 class="m-b-40 title has-text-black is-size-3-desktop is-size-3-tablet is-size-4-mobile">
-                  <b>Mudahnya <span class="has-text-digawean-primary">dibersihin</span></b></h1>
-                <p class="subtitle is-size-4-desktop is-size-4-tablet is-size-6-mobile has-text-dark-alexa"><b>Duduk
-                    santai, serahkan pada cleaner. Karena selalu ada saja yang perlu di <span class="has-text-digawean-primary">dibersihin</span></b>
+                  <b>Aplikasi <span class="has-text-digawean-primary">dibersihin</span></b></h1>
+                <p class="subtitle is-size-6-desktop is-size-6-tablet is-size-6-mobile has-text-dark-alexa"><b> Adalah platform aplikasi Jasa Kebersihan yang akan memberi kemudahan bagi para pelanggan (konsumen) untuk memanggil para petugas kebersihan (cleaner) 
+                  yang diperlukan pada waktu yang dibutuhkan. <br><br>
+                   Dilengkapi dengan sistem keamanan dua arah, baik dari sisi Konsumen maupun dari sisi para Cleaner yang terlibat langsung dalam transaksi pekerjaan tersebut. <br>
+                   Sebagai salah satu tujuan aplikasi, <span class="has-text-digawean-primary">dibersihin</span> adalah untuk memberikan kepuasan prima atas setiap jasa pelayanan kepada penggunanya.</b>
                 </p>
               </div>
             </div>
             <div class="column is-6">
               <img class="fullwidth  p-70" src="cleaning.png" alt="">
+            </div>
+          </div>
+            <div class="columns custom-columns">
+            <div class="column is-6">
+              <img class="fullwidth p-70" src="aboutus.png" alt=""> 
+            </div>
+            <div class="column is-6 is-vertical-center">
+              <div class="p-30">
+                <p class="subtitle is-size-6-desktop is-size-6-tablet is-size-6-mobile has-text-dark-alexa"><b>Melibatkan ribuan pekerja dan secara terus menerus akan membuka lapangan kerja bagi yang membutuhkan, dan memberi waktu luang lebih bagi Konsumen untuk lebih santai<span
+                      class="has-text-digawean-primary"> dibersihin</span> <br> <br>
+                      Aplikasi<span class="has-text-digawean-primary"> dibersihin</span>, akan selalu dikembangkan sesuai dengan kebutuhan jasa pelayanan kebersihan lainnya yang dapat diberikan kepada seluruh masyarakat.</b></p>
+              </div>
             </div>
           </div>
         </div>
