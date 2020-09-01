@@ -14,7 +14,7 @@
                 <p class="subtitle is-size-6-desktop is-size-6-tablet is-size-6-mobile has-text-dark-alexa"><b>Pesan
                     cukup dengan satu sentuhan di HP kita, ruangan favorit jadi kinclong setelah <span
                       class="has-text-digawean-primary"> dibersihin</span> <br> <br>
-                      Begitu mudahnya <span class="has-text-digawean-primary"> dibersihin</span>, duduk santai, nikmati waktu luang dan serahkan urusan pada cleaner, karena selalu saja ada yang perlu <span class="has-text-digawean-primary"> dibersihin</span> </b></p>
+                      Begitu mudahnya <span class="has-text-digawean-primary"> dibersihin</span>, duduk santai, nikmati waktu luang dan serahkan urusan pada cleaner, karena diantara kesibukan kita setiap hari, ada saja yang perlu <span class="has-text-digawean-primary"> dibersihin</span> </b></p>
               </div>
             </div>
           </div>
@@ -25,7 +25,7 @@
                   <b>Aplikasi <span class="has-text-digawean-primary">dibersihin</span></b></h1>
                 <p class="subtitle is-size-6-desktop is-size-6-tablet is-size-6-mobile has-text-dark-alexa"><b> Adalah platform aplikasi Jasa Kebersihan yang akan memberi kemudahan bagi para pelanggan (konsumen) untuk memanggil para petugas kebersihan (cleaner) 
                   yang diperlukan pada waktu yang dibutuhkan. <br><br>
-                   Dilengkapi dengan sistem keamanan dua arah, baik dari sisi Konsumen maupun dari sisi para Cleaner yang terlibat langsung dalam transaksi pekerjaan tersebut. <br>
+                   Dilengkapi dengan sistem keamanan dua arah, baik dari sisi Konsumen maupun dari sisi para Cleaner yang terlibat langsung dalam transaksi pekerjaan tersebut. <br><br>
                    Sebagai salah satu tujuan aplikasi, <span class="has-text-digawean-primary">dibersihin</span> adalah untuk memberikan kepuasan prima atas setiap jasa pelayanan kepada penggunanya.</b>
                 </p>
               </div>
