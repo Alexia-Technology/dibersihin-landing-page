@@ -8,24 +8,41 @@
             class="fa fa-2x fa-times" aria-hidden="true"></i>
         </div>
         <ul class="nav-list" @click="$emit('close')">
-          <nuxt-link to="#" v-scroll-to="'#home'" class="has-text-dark">
+          <nuxt-link to="/" v-scroll-to="'#home'" class="has-text-dark">
             <li class="nav-item">
               Beranda
             </li>
           </nuxt-link>
 
-          <nuxt-link to="#" v-scroll-to="'#about'" class="has-text-dark">
+          <nuxt-link to="/" v-scroll-to="'#about'" class="has-text-dark">
             <li class="nav-item">
               Tentang Kami
             </li>
           </nuxt-link>
 
-          <nuxt-link to="#" v-scroll-to="'#join'" class="has-text-dark">
+          <nuxt-link to="/" v-scroll-to="'#join'" class="has-text-dark">
             <li class="nav-item">
               Gabung
             </li>
           </nuxt-link>
 
+          <nuxt-link to="/tutorial" v-scroll-to="'#join'" class="has-text-dark">
+            <li class="nav-item">
+              Tutorial
+            </li>
+          </nuxt-link>
+
+          <nuxt-link to="/FAQ" v-scroll-to="'#join'" class="has-text-dark">
+            <li class="nav-item">
+              FAQ
+            </li>
+          </nuxt-link>
+
+          <nuxt-link to="/ketentuan" v-scroll-to="'#join'" class="has-text-dark">
+            <li class="nav-item">
+              Ketentuan
+            </li>
+          </nuxt-link>
         </ul>
       </div>
     </transition>

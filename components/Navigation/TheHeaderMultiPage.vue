@@ -22,15 +22,15 @@
             <nuxt-link to="#"> <img src="garuda.svg" alt="" /> </nuxt-link>
           </li>
           <li class="nav-item p-b-4">
-            <nuxt-link to="" v-scroll-to="'#home'"> Beranda</nuxt-link>
+            <nuxt-link to="/" v-scroll-to="'#home'"> Beranda</nuxt-link>
           </li>
           <li class="nav-item p-b-4">
-            <nuxt-link to="" v-scroll-to="'#about'">
+            <nuxt-link to="/" v-scroll-to="'#about'">
               Tentang Kami
             </nuxt-link>
           </li>
           <li class="nav-item p-b-4">
-            <nuxt-link to="" v-scroll-to="'#join'">
+            <nuxt-link to="/">
               Gabung
             </nuxt-link>
           </li>
