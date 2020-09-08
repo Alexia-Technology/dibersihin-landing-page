@@ -6,6 +6,24 @@
 
 <script>
 export default {
-    layout:'multiPage',
-}
+  layout: "multiPage",
+  data() {
+    return {
+      title: "Tutorial - Dibersihin",
+    };
+  },
+  head() {
+    return {
+      title: this.title,
+      meta: [
+        // hid is used as unique identifier. Do not use `vmid` for it as it will not work
+        {
+          hid: "description",
+          name: "description",
+          content: "Pesan Cleaner Tanpa Ribet",
+        },
+      ],
+    };
+  },
+};
 </script>
