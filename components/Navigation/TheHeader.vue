@@ -45,7 +45,7 @@
             </nuxt-link>
           </li>
            <li class="nav-item p-b-4 ">
-            <nuxt-link class="nuxt-link-active" to="ketentuan">
+            <nuxt-link class="nuxt-link-active" to="privacy-policy">
               Ketentuan
             </nuxt-link>
           </li>

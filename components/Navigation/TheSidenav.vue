@@ -38,7 +38,7 @@
             </li>
           </nuxt-link>
 
-          <nuxt-link to="/ketentuan" v-scroll-to="'#join'" class="has-text-dark">
+          <nuxt-link to="/privacy-policy" v-scroll-to="'#join'" class="has-text-dark">
             <li class="nav-item">
               Ketentuan
             </li>
