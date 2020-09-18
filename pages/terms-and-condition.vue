@@ -2,9 +2,10 @@
   <div>
     <section
       id="about"
-      class="offering is-link is-fullheight is-vertical-center"
+      class="offering is-link"
+      :style="{ width: isWebView ? '100vw' : '', height: isWebView ? '100vh' : '', 'overflow-y': isWebView ? 'scroll' : ''}"
     >
-      <div class="container">
+      <div class="container" style="width: 100%;">
         <br /><br /><br />
         <div class="hero-body">
             <center>
@@ -949,7 +950,12 @@
 
 <script>
 export default {
- layout:'no-header-footer',
+  layout({ route }) {
+    if (route.query.v === 'webview') {
+      return 'no-header-footer'
+    }
+    return 'multiPage'
+  },
   data() {
     return {
          title: 'Ketentuan dan Syarat Penggunaan Aplikasi - Dibersihin'
@@ -970,6 +976,11 @@ export default {
     },
   // layout: 'privacyPolicy',
   components: {},
+  computed: {
+    isWebView() {
+      return this.$route.query.v === 'webview'
+    }
+  }
 };
 </script>
 
