@@ -43,6 +43,13 @@
               Ketentuan
             </li>
           </nuxt-link>
+
+           <a href="https://order.dibersihin.com/"  class="has-text-dark">
+            <li class="nav-item">
+              Paket Order
+            </li>
+          </a>
+          
         </ul>
       </div>
     </transition>
