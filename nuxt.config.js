@@ -39,7 +39,9 @@ export default {
   /*
    ** Global CSS
    */
-  css: [{
+  css: [
+    'quill/dist/quill.core.css',
+    {
       src: '@/assets/app.css',
       lang: 'css'
     },
@@ -51,7 +53,7 @@ export default {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: [{ src: '~/plugins/vue-pdf.js', mode: 'client' },{ src: '~plugins/ga.js', mode: 'client' }],
+  plugins: [{ src: '~/plugins/vue-pdf.js', mode: 'client' },{ src: '~plugins/ga.js', mode: 'client' },{ src: '~plugins/quill.js', ssr: false }],
   /*
    ** Nuxt.js dev-modules
    */
