@@ -50,8 +50,8 @@
             </nuxt-link>
           </li>
            <li class="nav-item p-b-4 ">
-            <a href="https://dibersihin.digawean.com/" target="_blank" class="nuxt-link-active" >
-              Paket Order
+            <a href="https://lifestyle.dibersihin.id" target="_blank" class="nuxt-link-active" >
+              lifestyle
             </a>
           </li>
         </ul>

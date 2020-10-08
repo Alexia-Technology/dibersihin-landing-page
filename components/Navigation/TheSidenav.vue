@@ -44,9 +44,9 @@
             </li>
           </nuxt-link>
 
-           <a href="https://dibersihin.digawean.com/"  class="has-text-dark">
+           <a href="https://lifestyle.dibersihin.id"  class="has-text-dark">
             <li class="nav-item">
-              Paket Order
+              lifestyle
             </li>
           </a>
           
