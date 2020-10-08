@@ -51,7 +51,7 @@
           </li>
            <li class="nav-item p-b-4 ">
             <a href="https://lifestyle.dibersihin.id" target="_blank" class="nuxt-link-active" >
-              lifestyle
+              Lifestyle
             </a>
           </li>
         </ul>

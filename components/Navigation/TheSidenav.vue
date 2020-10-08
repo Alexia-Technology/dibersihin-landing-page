@@ -46,7 +46,7 @@
 
            <a href="https://lifestyle.dibersihin.id"  class="has-text-dark">
             <li class="nav-item">
-              lifestyle
+              Lifestyle
             </li>
           </a>
           
